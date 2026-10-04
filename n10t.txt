@@ -1,0 +1,23 @@
+ACCEPTED STRINGS (Do not contain substring '10')
+0
+1
+00
+11
+01
+000
+111
+001
+011
+000111
+000011
+
+REJECTED STRINGS (Contain substring '10') 
+10
+010
+101
+100
+110
+0110
+00101
+111000
+01010
