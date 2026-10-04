@@ -1,0 +1,19 @@
+ACCEPTED STRINGS (Odd number of 0s OR exactly 001)
+0
+001
+000
+10
+0111
+00000
+10111
+00100
+
+REJECTED STRINGS (Even number of 0s AND not exactly 001)
+Empty
+00
+11
+0000
+111
+0011 
+0010 (odd zeros, so  still accepted) 
+001100

@@ -1,0 +1,18 @@
+ACCEPTED STRINGS (Has 3k+1 ones OR odd number of 0s)
+1
+0
+1111
+000
+10
+01
+1110
+00000
+
+REJECTED STRINGS (Even zeros AND wrong count of ones)
+Empty
+00
+11
+111
+0011
+00111
+000011
